@@ -1,6 +1,6 @@
 ## Hi there, I'm RG 👋
 
-I'm a Software Engineer based in Singapore currently writing backend code for [Xendit](https://github.com/xendit). Previously, I worked at [Eatigo](https://github.com/eatigo)
+I'm a Software Engineer based in Singapore currently writing backend code for [Xendit](https://github.com/xendit). Previously, I worked at [Eatigo](https://github.com/eatigo).
 
 - 🌍 [Website](https://rgaquino.com)
 - 💻 [LinkedIn](https://www.linkedin.com/in/rgaquino)
